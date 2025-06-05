@@ -1,0 +1,59 @@
+#+TITLE: Academic Literature Repository
+#+AUTHOR: aygp-dr
+#+DATE: <2025-01-06>
+#+PROPERTY: header-args :mkdirp yes
+
+* Overview
+
+This repository serves as a personal knowledge base for academic literature, containing curated collections of papers, books, and journal articles across various disciplines. It is designed to facilitate research, reference management, and knowledge synthesis.
+
+* Repository Structure
+
+** Papers/
+   Scientific papers, conference proceedings, and preprints organized by topic and year.
+
+** Books/
+   Academic books, textbooks, and monographs categorized by subject area.
+
+** Journal_Articles/
+   Peer-reviewed journal articles sorted by publication and research domain.
+
+** Notes/
+   Personal annotations, summaries, and synthesis documents for key readings.
+
+** References/
+   Bibliography files, citation databases, and reference management resources.
+
+* Topics
+
+- Computer Science & AI
+- Mathematics & Statistics
+- Physics & Engineering
+- Biology & Life Sciences
+- Philosophy & Ethics
+- Economics & Social Sciences
+- Interdisciplinary Studies
+- Research Methodology
+- Data Science & Machine Learning
+- Systems Theory & Complexity
+
+* Usage
+
+This repository uses org-mode for literate programming and documentation. Key features include:
+
+- Babel code blocks for executable examples
+- Tangling support for extracting code
+- Integrated bibliography management
+- Cross-references and internal linking
+
+* Contributing
+
+For personal contributions:
+1. Add new literature to appropriate directories
+2. Update corresponding index files
+3. Include proper citations and metadata
+4. Add personal notes and summaries when applicable
+
+* License
+
+This repository contains references to academic works. Original papers and books retain their respective copyrights. Personal notes and summaries are for educational purposes only.
