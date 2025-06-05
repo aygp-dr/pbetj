@@ -1,0 +1,3 @@
+- use conventional commits
+- use --trailer for coauthor
+- do not use generated with in git commit messages
