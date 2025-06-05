@@ -9,19 +9,19 @@ This repository serves as a personal knowledge base for academic literature, con
 
 * Repository Structure
 
-** Papers/
+** [[file:Papers/][Papers/]]
    Scientific papers, conference proceedings, and preprints organized by topic and year.
 
-** Books/
+** [[file:Books/][Books/]]
    Academic books, textbooks, and monographs categorized by subject area.
 
-** Journal_Articles/
+** [[file:Journal_Articles/][Journal_Articles/]]
    Peer-reviewed journal articles sorted by publication and research domain.
 
-** Notes/
+** [[file:Notes/][Notes/]]
    Personal annotations, summaries, and synthesis documents for key readings.
 
-** References/
+** [[file:References/][References/]]
    Bibliography files, citation databases, and reference management resources.
 
 * Topics
